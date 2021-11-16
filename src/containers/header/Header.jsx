@@ -1,12 +1,10 @@
-import React from 'react'
-import './header.css'
+import React from "react";
+import "./header.css";
 
 const Header = () => {
-    return (
-        <div>
-            
-        </div>
-    )
-}
+  return <div className='gpt3__header section__padding' id="home">
 
-export default Header
+  </div>;
+};
+
+export default Header;

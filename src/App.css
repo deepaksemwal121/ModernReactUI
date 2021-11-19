@@ -53,6 +53,7 @@ a {
   background: var(--gradient-text);
   background-clip: text;
   -webkit-background-clip: text;
+  font-family: var(--font-family);
   -webkit-text-fill-color: transparent;
 }
 .section__padding {

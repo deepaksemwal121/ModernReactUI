@@ -43,6 +43,8 @@
 .gpt3__possibility-content p {
   font-family: var(--font-family);
   color: var(--color-text);
+  font-size: 14px;
+  line-height: 20px;
 }
 @media screen and (max-width: 950px) {
   .gpt3__possibility {
